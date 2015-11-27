@@ -1,0 +1,34 @@
+#button {
+    width: 120px;
+    height: 32px;
+    background: cornflowerblue;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+}
+#button:hover {
+    background: lightsteelblue;
+    cursor: hand;
+}
+#button:active {
+    background: cadetblue;
+}
+
+#result {
+    padding: 20px;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+    border-radius: 10px;
+    border: solid lightgrey;
+    background: palegreen;
+    cursor: hand;
+}
+
+#result-container {
+    position: absolute;
+}
+
+#container{
+    padding: 6px;
+}
