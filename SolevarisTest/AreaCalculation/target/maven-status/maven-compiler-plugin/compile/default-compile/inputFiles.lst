@@ -1,0 +1,15 @@
+D:\Development\Java_WorkSpace\GeometricFigures\src\main\java\ua\antontereshin\areacalculation\model\figure\AbstractFigure.java
+D:\Development\Java_WorkSpace\GeometricFigures\src\main\java\ua\antontereshin\areacalculation\web\controllers\statistics\StatisticsRestController.java
+D:\Development\Java_WorkSpace\GeometricFigures\src\main\java\ua\antontereshin\areacalculation\model\figure\FigureProducer.java
+D:\Development\Java_WorkSpace\GeometricFigures\src\main\java\ua\antontereshin\areacalculation\model\request\GetFigureStatisticsRequest.java
+D:\Development\Java_WorkSpace\GeometricFigures\src\main\java\ua\antontereshin\areacalculation\model\figure\impl\CircleFigure.java
+D:\Development\Java_WorkSpace\GeometricFigures\src\main\java\ua\antontereshin\areacalculation\model\figure\impl\TriangleFigure.java
+D:\Development\Java_WorkSpace\GeometricFigures\src\main\java\ua\antontereshin\areacalculation\web\controllers\MainPageController.java
+D:\Development\Java_WorkSpace\GeometricFigures\src\main\java\ua\antontereshin\areacalculation\model\figure\Figure.java
+D:\Development\Java_WorkSpace\GeometricFigures\src\main\java\ua\antontereshin\areacalculation\model\figure\impl\RectangleFigure.java
+D:\Development\Java_WorkSpace\GeometricFigures\src\main\java\ua\antontereshin\areacalculation\utils\Utils.java
+D:\Development\Java_WorkSpace\GeometricFigures\src\main\java\ua\antontereshin\areacalculation\model\figure\impl\SquareFigure.java
+D:\Development\Java_WorkSpace\GeometricFigures\src\main\java\ua\antontereshin\areacalculation\config\SystemPreferencePlaceholderConfigurer.java
+D:\Development\Java_WorkSpace\GeometricFigures\src\main\java\ua\antontereshin\areacalculation\model\figure\impl\RhombusFigure.java
+D:\Development\Java_WorkSpace\GeometricFigures\src\main\java\ua\antontereshin\areacalculation\web\controllers\GlobalExceptionHandlerController.java
+D:\Development\Java_WorkSpace\GeometricFigures\src\main\java\ua\antontereshin\areacalculation\model\response\GetFigureStatisticsResponse.java

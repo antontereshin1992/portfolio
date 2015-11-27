@@ -1,0 +1,15 @@
+ua\antontereshin\areacalculation\model\figure\FigureProducer.class
+ua\antontereshin\areacalculation\model\request\GetFigureStatisticsRequest.class
+ua\antontereshin\areacalculation\config\SystemPreferencePlaceholderConfigurer.class
+ua\antontereshin\areacalculation\model\figure\impl\CircleFigure.class
+ua\antontereshin\areacalculation\model\figure\impl\RhombusFigure.class
+ua\antontereshin\areacalculation\web\controllers\MainPageController.class
+ua\antontereshin\areacalculation\model\figure\Figure.class
+ua\antontereshin\areacalculation\model\response\GetFigureStatisticsResponse.class
+ua\antontereshin\areacalculation\web\controllers\GlobalExceptionHandlerController.class
+ua\antontereshin\areacalculation\model\figure\impl\TriangleFigure.class
+ua\antontereshin\areacalculation\utils\Utils.class
+ua\antontereshin\areacalculation\model\figure\AbstractFigure.class
+ua\antontereshin\areacalculation\model\figure\impl\SquareFigure.class
+ua\antontereshin\areacalculation\web\controllers\statistics\StatisticsRestController.class
+ua\antontereshin\areacalculation\model\figure\impl\RectangleFigure.class

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <Properties>
+        <Property name="filename">LoginServer</Property>
+        <Property name="datePattern">${sys:log4j.logDatePattern}</Property>
+        <Property name="msgPatter">${sys:log4j.logMsgPattern}</Property>
+        <Property name="root">${sys:log4j.logDirectory}</Property>
+    </Properties>
+
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="${datePattern} ${msgPatter}"/>
+        </Console>
+    </Appenders>
+
+    <Loggers>
+        <Logger name="com.l2stone" level="DEBUG" additivity="false">
+            <AppenderRef ref="Console"/>
+        </Logger>
+        <Root level="INFO">
+            <AppenderRef ref="Console"/>
+        </Root>
+    </Loggers>
+</Configuration>
