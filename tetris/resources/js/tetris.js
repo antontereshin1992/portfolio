@@ -293,7 +293,7 @@ var preparingTetris = function () {
             printScore(score);
         }
         stopDrop();
-        TETRIS.dropItem();
+        dropItem();
     }
 
     /**
@@ -307,7 +307,7 @@ var preparingTetris = function () {
     /**
      * Generates and throws the new item
      */
-    TETRIS.dropItem = function () {
+    function dropItem() {
         if (!generateItem()) {
             printResult();
             return;
