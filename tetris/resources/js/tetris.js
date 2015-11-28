@@ -335,7 +335,7 @@ var preparingTetris = function () {
      */
     TETRIS.restart = function () {
         this.stop();
-        this.dropItem();
+        dropItem();
     };
 
     /**
